@@ -1,0 +1,8 @@
+.cuadrito {
+    background-color: #1d1d1d;    
+    height: 16px;
+    width: 16px;
+    margin: 2px;
+    transition: .1s;
+    filter: blur(1px);
+}
