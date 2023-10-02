@@ -25,7 +25,7 @@ export const App = () => {
     };
 
     containerElement.addEventListener("mouseover", handleMouseMove);
-    containerElement;
+  
 
     return () => {
       containerElement.removeEventListener("mouseover", handleMouseMove);
