@@ -5,6 +5,6 @@ export const Cuadrito = () => {
 
 
   return (
-    <div className='cuadrito' ></div>
+    <div className='cuadrito'></div>
   )
 }
